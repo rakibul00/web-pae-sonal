@@ -59,22 +59,17 @@ footer p{
 .last-batton img{
     width: 100%;
 }
-.last-batton{
-    text-decoration: none;
-    background-image: linear-gradient(45deg, rgb(154, 73, 230), rgb(43, 5, 68));
-    padding: 10px 20px ;
-    border-radius: 5px;
-    color: beige;
-    font-weight: 100;
-   
-}
 #last-p{
     text-align: center;
 }
-footer p{
+
+   
+
+
+.div-a p{
     text-align: center;
 }
-footer a{
-    text-align: center;
+#last-coler{
+    background-color: orangered;
+    padding: 3% 4%;
 }
-Footer
